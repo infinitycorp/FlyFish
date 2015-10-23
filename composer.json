@@ -10,7 +10,6 @@
             "email": "inifnitycorpsurat@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": ">=5.5.9",
         "infinitycorp/flyfish-core": "~1.0"
